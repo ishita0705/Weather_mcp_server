@@ -14,11 +14,12 @@ A free weather API and web app built with **FastAPI** and **MCP (Model Context P
 
 **Current Weather:**
 
-![Current Weather](screenshot1.png)
+<img width="968" height="775" alt="image" src="https://github.com/user-attachments/assets/2cdc8cc6-8b16-4a75-af5d-a00694d86977" />
 
 **5-Day Forecast:**
+<img width="936" height="848" alt="image" src="https://github.com/user-attachments/assets/d375bc2f-05a3-4aff-9f6a-7ec4beb366a8" />
 
-![Forecast](screenshot2.png)
+
 
 ---
 
